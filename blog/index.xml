@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Willian Paixao</title>
+    <link>https://willianpaixao.github.io/blog/</link>
+    <description>Recent content in Blogs on Willian Paixao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2017 10:01:53 +0200</lastBuildDate>
+    
+	<atom:link href="https://willianpaixao.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Commit</title>
+      <link>https://willianpaixao.github.io/blog/first-commit/</link>
+      <pubDate>Tue, 10 Oct 2017 10:01:53 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/blog/first-commit/</guid>
+      <description> Hello World! </description>
+    </item>
+    
+  </channel>
+</rss>
