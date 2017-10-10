@@ -6,9 +6,55 @@
     <description>Recent content in Tags on Willian Paixao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2017 14:57:31 +0200</lastBuildDate>
     
 	<atom:link href="https://willianpaixao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://willianpaixao.github.io/tags/ansible/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://willianpaixao.github.io/tags/devops/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://willianpaixao.github.io/tags/linux/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>https://willianpaixao.github.io/tags/shell/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tmux</title>
+      <link>https://willianpaixao.github.io/tags/tmux/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/tags/tmux/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

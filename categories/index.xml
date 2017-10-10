@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Willian Paixao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2017 14:57:31 +0200</lastBuildDate>
     
 	<atom:link href="https://willianpaixao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://willianpaixao.github.io/categories/ansible/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/categories/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://willianpaixao.github.io/categories/devops/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/categories/devops/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

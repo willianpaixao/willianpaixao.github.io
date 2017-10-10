@@ -6,18 +6,20 @@
     <description>Recent content in Blogs on Willian Paixao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 10:01:53 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 14:57:31 +0200</lastBuildDate>
     
 	<atom:link href="https://willianpaixao.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Commit</title>
-      <link>https://willianpaixao.github.io/blog/first-commit/</link>
-      <pubDate>Tue, 10 Oct 2017 10:01:53 +0200</pubDate>
+      <title>Tmux and Ansible</title>
+      <link>https://willianpaixao.github.io/blog/tmux-ansible/</link>
+      <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
       
-      <guid>https://willianpaixao.github.io/blog/first-commit/</guid>
-      <description> Hello World! </description>
+      <guid>https://willianpaixao.github.io/blog/tmux-ansible/</guid>
+      <description>Tmux is a &amp;ldquo;terminal multiplexer&amp;rdquo; that allows you to have multiples window terminals in a single terminal. And our beloved Ansible can help install and setup tmux.
+Installing You need first install Tmux&amp;rsquo;s package. Among the several ways, we&amp;rsquo;ll just use the standard and offical package. This works for most of the operating systems.
+- name: Install tmux package: name: tmux state: present tags: tmux  With just that you have a working tmux.</description>
     </item>
     
   </channel>
