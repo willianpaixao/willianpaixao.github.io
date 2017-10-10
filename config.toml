@@ -3,17 +3,23 @@ languageCode = "en-us"
 author = "Willian Paixao"
 title = "Willian Paixao"
 theme = "hugo-goa"
-builddrafts = true
 
 [params]
   author = "Willian Paixao"
   dateformat = "Mon Jan 2, 2006"
   intro = "DevOps Engineer at Ellmount"
+  description = "Stockholm, Sweden"
   authorimage = "headshot.jpg"
+
+[params.meta]
+  description = "Willian Paixao - DevOps, SysAdmin, Developer"
+  keywords = "willian,paixao,devops,engineer,sysadmin,linux"
 
 [params.social]
   github = "willianpaixao"
+  instagram = "willianpaixaoo"
   linkedin = "willianpaixao"
+  twitter = "willianpaixaoo"
   email = "willian@ufpa.br"
 
 [[menu.main]]
