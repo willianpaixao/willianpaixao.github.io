@@ -1,0 +1,26 @@
+baseURL = "https://willianpaixao.github.io"
+languageCode = "en-us"
+author = "Willian Paixao"
+title = "Willian Paixao"
+theme = "hugo-goa"
+builddrafts = true
+
+[params]
+  author = "Willian Paixao"
+  dateformat = "Mon Jan 2, 2006"
+  intro = "DevOps Engineer at Ellmount"
+  authorimage = "headshot.jpg"
+
+[params.social]
+  github = "willianpaixao"
+  linkedin = "willianpaixao"
+  email = "willian@ufpa.br"
+
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  url = "/blog/"
+[[menu.main]]
+  name = "about"
+  weight = 200
+  url = "/about/"
