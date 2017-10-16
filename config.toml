@@ -30,3 +30,7 @@ theme = "hugo-goa"
   name = "about"
   weight = 200
   url = "/about/"
+[[menu.main]]
+  name = "impossible list"
+  weight = 200
+  url = "/impossible-list/"
