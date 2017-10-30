@@ -22,6 +22,19 @@ Life  Read 1000 books. [progress] Write and self-publish a book Have enough mone
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://willianpaixao.github.io/about/</link>
+      <pubDate>Thu, 12 Oct 2017 11:30:28 +0200</pubDate>
+      
+      <guid>https://willianpaixao.github.io/about/</guid>
+      <description> A Computer Engineer from Universidade Federal do Pará, born and raised in the Amazon rainforest region. Currently living in Stockholm and working at Ellmount Gaming as a DevOps Engineer.
+When not working, I&amp;rsquo;m training Brazilian Jiu-jitsu.
+Contact me  Professional
+ Email // willian@ufpa.br Github // @willianpaixao LinkedIn // @willianpaixao  Personal
+ Instagram // @willianpaixaoo Twitter // @willianpaixaoo   </description>
+    </item>
+    
+    <item>
       <title>Tmux and Ansible</title>
       <link>https://willianpaixao.github.io/blog/tmux-ansible/</link>
       <pubDate>Tue, 10 Oct 2017 14:57:31 +0200</pubDate>
