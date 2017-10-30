@@ -12,15 +12,14 @@ Totally based on [College Info Geek](https://collegeinfogeek.com/)'s [post](http
   * Have enough money to retire (using the [4% rule](http://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/))
 
 ## Fitness
-  * Earn a [Brazilian
-    Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) black belt
+  * Earn a [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) black belt
   * Do 100 push-ups in a single set
   * Do 100 pull-ups in a single set
   * Run 5km in under 25 minutes
   * Run 10km in under 1 hour
   * Run a half marathon
   * Run a marathon
-  * Run an Ironman
+  * Run an [Ironman](http://ironman.com)
 
 ## Travel
 ### Travel list
@@ -42,13 +41,13 @@ Totally based on [College Info Geek](https://collegeinfogeek.com/)'s [post](http
   * Pass the LPIC2
   * Renew my  Goethe-Zertifikat B1
   * Pass the Goethe-Zertifikat B2
-  * Complete German course on Duolingo. [6/30/2017]
-  * Complete Italian course on Duolingo. [7/25/2017]
+  * ~~Complete German course on Duolingo.~~ [6/30/2017]
+  * ~~Complete Italian course on Duolingo.~~ [7/25/2017]
   * Complete Swedish course on Duolingo
 
 ### Community
   * Actively contribute to an Open Source project
-  * Earn a gold medal in Stack Overflow. [progress] [4/11/2017]
+  * ~~Earn a gold medal in Stack Overflow.~~ [progress] [4/11/2017]
   * Earn 10k points in a single Stack Overflow board
   * Publish an Android app on Google Store
 
